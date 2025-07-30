@@ -41,7 +41,7 @@ AIVA uses a layered architecture:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aiva/aiva.git
+git clone https://github.com/tyrchen/aiva.git
 cd aiva
 
 # Build and install
