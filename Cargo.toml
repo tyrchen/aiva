@@ -30,7 +30,7 @@ uuid = { version = "1.11", features = ["v4", "serde"] }
 chrono = { version = "0.4", features = ["serde"] }
 reqwest = { version = "0.12", features = ["json"] }
 async-trait = "0.1"
-bytes = "1.8"
+bytes = "1.11"
 
 [profile.release]
 opt-level = 3
